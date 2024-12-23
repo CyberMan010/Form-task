@@ -1,7 +1,7 @@
-Form Validation Component
-A robust React form validation component built with React and Tailwind CSS, featuring real-time validation, custom input components, and a responsive design.
+# Form Validation Component
+**A robust React form validation component built with React and Tailwind CSS, featuring real-time validation, custom input components, and a responsive design.**
 
-🚀 Features
+## 🚀 Features
 Real-time form validation
 Custom input components
 Responsive design
@@ -9,7 +9,7 @@ Multiple input types support
 Error handling and display
 Form state management
 Custom validation rules
-📋 Validation Rules
+## 📋 Validation Rules
 Full Name: Must contain at least 3 words
 Email: Must be a valid email format
 Password: Minimum 8 characters, must include:
@@ -19,8 +19,8 @@ Phone: Exactly 10 digits
 Age: Must be between 18 and 65
 Country: Must be selected from provided options
 Terms: Must be agreed to
-🛠️ Installation
-Clone the repository:
+## 🛠️ Installation
+## Clone the repository:
 
 git clone [https://github.com/CyberMan010/Form-task.git]
 Install dependencies:
